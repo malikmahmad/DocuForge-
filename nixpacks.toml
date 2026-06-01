@@ -1,0 +1,4 @@
+providers = ["node"]
+
+[phases.build]
+cmds = ["npm ci --legacy-peer-deps", "npm run build"]
