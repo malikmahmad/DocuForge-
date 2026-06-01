@@ -288,7 +288,7 @@ export default function App() {
                   <p>Project data is stored securely in our database to allow you to retrieve and manage your generated documents. You have the right to delete your projects at any time.</p>
                 </div>
                 <p className="pt-6 border-t border-slate-100 dark:border-navy-700 text-sm italic">
-                  Last updated: February 22, 2026. For any privacy-related inquiries, please contact our security team.
+                  Last updated: March 31, 2026. For any privacy-related inquiries, please contact our security team.
                 </p>
               </div>
             </div>
